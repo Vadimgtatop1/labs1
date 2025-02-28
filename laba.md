@@ -100,7 +100,7 @@ tar -xvzf boost_1_69_0.tar.gz -C ~/
 Результат:
 #
  
-   -[result](https://raw.githubusercontent.com/Vadimgtatop1/labs1/refs/heads/main/log.txt)
+   -[Результат](https://raw.githubusercontent.com/Vadimgtatop1/labs1/refs/heads/main/log.txt)
 #
 
 ### **8. Компируем Boost**
